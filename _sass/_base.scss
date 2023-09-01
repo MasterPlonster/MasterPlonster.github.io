@@ -302,10 +302,10 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
 
     a {
       i::before {
@@ -760,6 +760,10 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  .post-header {
+    margin-bottom: 12px;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
