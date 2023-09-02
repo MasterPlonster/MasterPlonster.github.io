@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MasterPlonster.github.io/sitemap.xml
+Sitemap: https://www.eyalfisher.com/sitemap.xml
