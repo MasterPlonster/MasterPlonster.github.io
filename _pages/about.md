@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Eyal, and I help companies build AI-powered products or adopt AI in their operations. I've worked with startups small and large across a variety of industries, including healthcare, B2B SaaS, and e-commerce.
+I help companies build AI-powered products or adopt AI in their operations. I've worked with startups small and large across a variety of industries, including healthcare, B2B SaaS, and e-commerce.
 
 In 2019 I co-founded ART AI, where we were the first company to launch a text to image generator back in 2020, leading the way in generative AI.
 
